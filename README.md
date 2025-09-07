@@ -8,9 +8,6 @@ This project demonstrates hosting a **serverless website** using **AWS Lambda** 
 
 Browser → API Gateway → AWS Lambda → Returns HTML/CSS
 
-markdown
-Copy code
-
 - **AWS Lambda** → Runs Python code and returns the styled HTML page.  
 - **API Gateway** → Exposes the Lambda function as an HTTP endpoint.  
 - **Browser** → Renders the HTML as a user-friendly website.  
